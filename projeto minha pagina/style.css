@@ -1,0 +1,17 @@
+
+body{
+    font-family: 'Courier New', Courier, monospace; 
+    text-align: center;
+    background-color: blueviolet;
+}
+
+#perf{
+    border-radius: 120px 120px 120px 120px;
+}
+
+button{
+   border-radius: 15px;
+   border: 10px chocolate;
+   border-color: blueviolet;
+
+}
